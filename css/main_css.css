@@ -1,0 +1,22 @@
+div{
+    margin: 5px;
+    padding: 5px;
+    overflow: hidden;
+}
+
+img{
+    float: left;
+    padding-right: 10px;
+}
+
+.Youtube_Results{
+    background-color: grey;
+}
+.Youtube_Results:hover{
+    background-color: rgb(128, 128, 128,0.5);
+}
+.Youtube_Result_Title{
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    /* cursor: pointer; */
+}
